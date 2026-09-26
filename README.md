@@ -48,7 +48,7 @@ python csv2sdf.py input.csv output.sdf
 Example:
 
 ```bash
-python csv2sdf.py reframe_std.csv reframe_std.sdf
+python csv2sdf.py test_csvfile.csv test_csvfile_out.sdf
 ```
 
 ## Output
